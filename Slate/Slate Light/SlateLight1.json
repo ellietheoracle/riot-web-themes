@@ -1,19 +1,18 @@
 {
     "colors": {
-        "accent-color": "#778899",
-        "primary-color": "#778899",
-        "reaction-row-button-selected-bg-color": "#778899",
-        "roomlist-background-color": "#ff00ff",
-        "roomlist-highlights-color": "#ff00ff",
-        "roomlist-separator-color": "#778899",
-        "roomlist-text-color": "#2F4F4F",
-        "roomlist-text-secondary-color": "#2E3239",
-        "sidebar-color": "#778899",
-        "timeline-background-color": "#778899",
-        "timeline-highlights-color": "#778899",
-        "timeline-text-color": "#2F4F4F",
-        "timeline-text-secondary-color": "#2E3239",
-        "warning-color": "#778899"
+                    "accent-color": "#6503b3",
+                    "primary-color": "#368bd6",
+                    "warning-color": "#b30356",
+                    "sidebar-color": "#15171B",
+                    "roomlist-background-color": "#22262E",
+                    "roomlist-text-color": "#A1B2D1",
+                    "roomlist-text-secondary-color": "#EDF3FF",
+                    "roomlist-highlights-color": "#343A46",
+                    "roomlist-separator-color": "#a1b2d1",
+                    "timeline-background-color": "#181b21",
+                    "timeline-text-color": "#EDF3FF",
+                    "timeline-text-secondary-color": "#A1B2D1",
+                    "timeline-highlights-color": "#22262E"
     },
     "is_dark": false,
     "name": "Slate Light"
